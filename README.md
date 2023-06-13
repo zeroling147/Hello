@@ -37,6 +37,8 @@ int main(int argc, char* argv[])
 
 还可以插入图片
 
-注意 Ctrl S 随时保存！
+![This is an image（这里文字随便写）](./image.jpg)
+
+还可以插入链接，以后再搞吧。
 
 
